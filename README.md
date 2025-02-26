@@ -30,4 +30,6 @@ Feito com ❤️ por Arthur.
 🙌 Agradecimentos
 Agradeço ao *DevClub* por proporcionar o conhecimento necessário para a realização deste projeto.
 
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
+  https://arthurmdev.github.io/Devclub-Conversor-de-moedas/
 
